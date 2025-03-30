@@ -26,24 +26,33 @@ void setup()
   digitalWrite(LDBG_PIN, HIGH);
   delay(1000);
       
-  Flip.Delay(100);
+  Flip.Delay(0);
 }
 
 void loop()
 {
   Flip.Clear();
-  delay(1000);
+  delay(100);
   digitalWrite(LDBG_PIN, LOW);
 
   Flip.All();
-  delay(1000);
+  delay(100);
   digitalWrite(LDBG_PIN, HIGH);
 
   Flip.Clear();
-  delay(1000);
+  delay(100);
   digitalWrite(LDBG_PIN, LOW);
 
   Flip.All();
-  delay(1000);
+  delay(100);
   digitalWrite(LDBG_PIN, HIGH);
+
+  for(int i = 0; i <= 9; i++)
+  {
+    Flip.Display_4x3x3(1, 1, i, NUMB);
+    Flip.Display_4x3x3(1, 2, i, NUMB);
+    Flip.Display_4x3x3(1, 3, i, DICE);
+    Flip.Display_4x3x3(1, 4, i, DICE);
+    delay(1000);   
+  }
 }
