@@ -12,11 +12,10 @@ Control via dedicated [library](https://github.com/marcinsaj/FlipDisc) for Ardui
 - Display dimensions - to do
 - youtube video #1 - to do
 - youtube video #2 - to do
-- Dice symbols - [download](https://github.com/marcinsaj/Flipo-4x3x3-Flip-Disc-Display/raw/main/datasheet/Flipo-3x3-Flip-Disc-Display-Dice-Symbols.pdf)
 - Digits symbols - [download](https://github.com/marcinsaj/Flipo-4x3x3-Flip-Disc-Display/raw/main/datasheet/Flipo-3x3-Flip-Disc-Display-Digits-Symbols.pdf)
 
 
-
+![3x3 Digits Symbols](https://github.com/marcinsaj/Flipo-4x3x3-Flip-Disc-Display/blob/main/datasheet/Flipo-3x3-Flip-Disc-Display-Digits-Symbols.png)
 ![4x3x3 Flip-disc Display Pinout - top](https://github.com/marcinsaj/Flipo-4x3x3-Flip-Disc-Display/blob/main/datasheet/Flip-disc-4x3x3-Display-Pinout-top.png)
 ![4x3x3 Flip-disc Display Pinout - bottom](https://github.com/marcinsaj/Flipo-4x3x3-Flip-Disc-Display/blob/main/datasheet/Flip-disc-4x3x3-Display-Pinout-bottom.png)
 ![4x3x3 Flip-disc Display Pinout - description](https://github.com/marcinsaj/Flipo-4x3x3-Flip-Disc-Display/blob/main/datasheet/Flip-disc-4x3x3-Display-Pinout-description.png)
