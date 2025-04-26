@@ -6,7 +6,7 @@ Control via dedicated [library](https://github.com/marcinsaj/FlipDisc) for Ardui
 
 - Project website - to do
 - [Arduino code example](https://github.com/marcinsaj/Flipo-4x3x3-Flip-Disc-Display/tree/main/examples) - to do
-- 3x3 flip-disc display schematic - to do
+- 4x3x3 flip-disc display schematic - to do
 - [Flip-disc specification](https://github.com/marcinsaj/Flipo-Flip-disc-Display-Specification/raw/main/datasheet/Flipo-Flip-Disc-Specification.pdf)
 - [Display pinout](https://github.com/marcinsaj/Flipo-4x3x3-Flip-Disc-Display/raw/main/datasheet/Flip-disc-4x3x3-Display-Pinout.pdf)
 - Display dimensions - to do
