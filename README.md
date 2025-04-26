@@ -2,7 +2,7 @@
 <a href="https://www.buymeacoffee.com/marcinsaj"><img src="https://github.com/marcinsaj/marcinsaj/blob/main/Buy-me-a-coffee.png" /></a> 
 </br>
 
-Control via dedicated library for Arduino.
+Control via dedicated [library](https://github.com/marcinsaj/FlipDisc) for Arduino.
 
 - Project website - to do
 - [Arduino code example](https://github.com/marcinsaj/Flipo-4x3x3-Flip-Disc-Display/tree/main/examples) - to do
