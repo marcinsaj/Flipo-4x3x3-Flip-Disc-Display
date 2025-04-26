@@ -6,7 +6,7 @@ Control via dedicated [library](https://github.com/marcinsaj/FlipDisc) for Ardui
 
 - Project website - to do
 - [Arduino code example](https://github.com/marcinsaj/Flipo-4x3x3-Flip-Disc-Display/tree/main/examples) - to do
-- 4x3x3 flip-disc display schematic - to do
+- [4x3x3 flip-disc display schematic](https://github.com/marcinsaj/Flipo-4x3x3-Flip-Disc-Display/raw/main/datasheet/Flip-disc-4x3x3-Display-Schematic.pdf)
 - [Flip-disc specification](https://github.com/marcinsaj/Flipo-Flip-disc-Display-Specification/raw/main/datasheet/Flipo-Flip-Disc-Specification.pdf)
 - [Display pinout](https://github.com/marcinsaj/Flipo-4x3x3-Flip-Disc-Display/raw/main/datasheet/Flip-disc-4x3x3-Display-Pinout.pdf)
 - [Display dimensions](https://github.com/marcinsaj/Flipo-4x3x3-Flip-Disc-Display/raw/main/datasheet/Flip-disc-4x3x3-Display-Dimensions.pdf)
@@ -21,3 +21,4 @@ Control via dedicated [library](https://github.com/marcinsaj/FlipDisc) for Ardui
 ![4x3x3 Flip-disc Display Pinout - description](https://github.com/marcinsaj/Flipo-4x3x3-Flip-Disc-Display/blob/main/datasheet/Flip-disc-4x3x3-Display-Pinout-description.png)
 ![4x3x3 Flip-disc Display Dimensions - top](https://github.com/marcinsaj/Flipo-4x3x3-Flip-Disc-Display/blob/main/datasheet/Flip-disc-4x3x3-Display-Dimensions-1.png)
 ![4x3x3 Flip-disc Display Dimensions - bottom](https://github.com/marcinsaj/Flipo-4x3x3-Flip-Disc-Display/blob/main/datasheet/Flip-disc-4x3x3-Display-Dimensions-2.png)
+![4x3x3 Flip-disc Display Schematic](https://github.com/marcinsaj/Flipo-4x3x3-Flip-Disc-Display/blob/main/datasheet/Flip-disc-4x3x3-Display-Schematic.png)
