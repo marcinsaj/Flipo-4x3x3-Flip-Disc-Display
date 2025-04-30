@@ -14,7 +14,7 @@ Control via dedicated [library](https://github.com/marcinsaj/FlipDisc) for Ardui
 - youtube video #2 - to do
 - Digits symbols - [download](https://github.com/marcinsaj/Flipo-4x3x3-Flip-Disc-Display/raw/main/datasheet/Flipo-3x3-Flip-Disc-Display-Digits-Symbols.pdf)
 
-
+![4x3x3 Flip-disc Display](https://github.com/marcinsaj/Flipo-4x3x3-Flip-Disc-Display/blob/main/extras/4x3x3-flip-disc-display-cover-github.webp)
 ![3x3 Digits Symbols](https://github.com/marcinsaj/Flipo-4x3x3-Flip-Disc-Display/blob/main/datasheet/Flipo-3x3-Flip-Disc-Display-Digits-Symbols.png)
 ![4x3x3 Flip-disc Display Pinout - top](https://github.com/marcinsaj/Flipo-4x3x3-Flip-Disc-Display/blob/main/datasheet/Flip-disc-4x3x3-Display-Pinout-top.png)
 ![4x3x3 Flip-disc Display Pinout - bottom](https://github.com/marcinsaj/Flipo-4x3x3-Flip-Disc-Display/blob/main/datasheet/Flip-disc-4x3x3-Display-Pinout-bottom.png)
