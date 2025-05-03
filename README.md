@@ -10,8 +10,8 @@ Control via dedicated [library](https://github.com/marcinsaj/FlipDisc) for Ardui
 - [Display Schematic](https://github.com/marcinsaj/Flipo-4x3x3-Flip-Disc-Display/raw/main/datasheet/Flip-disc-4x3x3-Display-Schematic.pdf)
 - [Display Pinout](https://github.com/marcinsaj/Flipo-4x3x3-Flip-Disc-Display/raw/main/datasheet/Flip-disc-4x3x3-Display-Pinout.pdf)
 - [Display Dimensions](https://github.com/marcinsaj/Flipo-4x3x3-Flip-Disc-Display/raw/main/datasheet/Flip-disc-4x3x3-Display-Dimensions.pdf)
-- display with Arduino UNO - youtube video #1 - to do
-- display with dedicated controller - [youtube video #2](https://youtu.be/ThVUQUGto8k)
+- youtube video #1 - to do - display with Arduino UNO
+- [youtube video #2](https://youtu.be/ThVUQUGto8k) - display with dedicated controller
 - Digits symbols - [download](https://github.com/marcinsaj/Flipo-4x3x3-Flip-Disc-Display/raw/main/datasheet/Flipo-3x3-Flip-Disc-Display-Digits-Symbols.pdf)
 
 ![4x3x3 Flip-disc Display](https://github.com/marcinsaj/Flipo-4x3x3-Flip-Disc-Display/blob/main/extras/4x3x3-flip-disc-display-cover-github.webp)
